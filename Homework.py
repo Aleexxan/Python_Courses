@@ -66,3 +66,5 @@ st = set(values)
 new_list = list(st)
 
 print(new_list)
+
+12345
