@@ -1,0 +1,2 @@
+def supercool():
+    pass
