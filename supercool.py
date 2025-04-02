@@ -3,3 +3,6 @@ def supercool():
 
 def func_for_pycharm():
     pass
+
+def another():
+    pass
