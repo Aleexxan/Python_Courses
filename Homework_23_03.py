@@ -60,9 +60,9 @@
 #6.
 
 
-values = [3, 5, 3, 7, 9, 5, 3, 9, 10]
-
-st = set(values)
-new_list = list(st)
-
-print(new_list)
+# values = [3, 5, 3, 7, 9, 5, 3, 9, 10]
+#
+# st = set(values)
+# new_list = list(st)
+#
+# print(new_list)
